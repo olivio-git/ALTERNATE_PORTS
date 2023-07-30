@@ -1,0 +1,15 @@
+{
+  "name": "alternateports",
+  "version": "1.0.1",
+  "description": "Find alternate ports",
+  "main": "index.js",
+  "keywords": [
+    "find",
+    "ports",
+    "alternate",
+    "network",
+    "socket"
+  ],
+  "author": "Olivio Subelza Cabezas - olivio-git",
+  "license": "ISC"
+}
